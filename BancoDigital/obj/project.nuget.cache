@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "isEAdjoIFubEiCBJDxqDH3UltyJBlOGL9UCbXRihl+dJOcBFBnwY0zqGO8/jUY65jfKLGxR1dL5qM6i8AtGumw==",
+  "dgSpecHash": "YKPnlNES/0TzU75CEnbqnl1OHYaEu1Ox82J3VquSi2j3SvAtuTzF51UoxhqMSwPJkPbmWSLJF7OTJs9YPngsMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\agnal\\OneDrive\\Documentos\\backup 2\\BancoDigital\\BancoDigital\\BancoDigital.csproj",
+  "projectFilePath": "C:\\Users\\agnal\\OneDrive\\Documentos\\backup 3\\BancoDigital\\API_BancoDigital_MYSQL\\BancoDigital\\BancoDigital.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\agnal\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\agnal\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
